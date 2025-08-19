@@ -61,3 +61,12 @@ pnpm run dev
 ```shell
 pnpm run build
 ```
+
+## 🎮 Test Game Sekarang!
+Silakan coba mainkan game adventure yang sudah saya buat. Pastikan semua fitur berfungsi dengan baik:
+
+- Gerakan karakter (WASD/Arrow keys)<br/>
+- Sistem pertarungan (SPACE)<br/>
+- Koleksi item dan inventory<br/>
+- Health system<br/>
+- Level progression<br/>
