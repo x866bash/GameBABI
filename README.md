@@ -1,5 +1,7 @@
 # Shadcn-UI Template Usage Instructions
 
+Lagi gabut minta mgx buatin game, ehh ke babi gamenya.
+
 ## technology stack
 
 This project is built with:
